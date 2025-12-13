@@ -1,5 +1,7 @@
 # EI-Beginner 具身智能入门练习
 
+[中文版本](./README.md) | [English Version](./README_EN.md)
+
 有意报考/参与[OpenMOSS实验室](https://openmoss.github.io/)具身智能/人形机器人智能团队的同学，均需先完成下列入门练习。
 我们共享出来这个入门练习供广大具身智能/人形机器人智能爱好者作入门参考。
 
@@ -93,17 +95,17 @@
 - Underactuated Robotics from MIT
 
 ## 前沿研究
-如何做研究
-- GAMES003-图形视觉科研基本素养
-会议期刊
-- 机器人：Science Robotics, RSS, CoRL, ICRA, IROS, RLC
-- 机器学习：ICLR, NeurIPS, ICML
-- 计算机视觉：CVPR, ICCV, ECCV
-- 自然语言处理：ACL, EMNLP, COLM
-研讨班
-- CMU Robotics Institute Seminar: https://www.youtube.com/@cmurobotics
-- MIT Robotics Seminar: https://www.youtube.com/@MITRoboticsSeminar
-- MIT Embodied Intelligence Seminar: https://www.youtube.com/@mitembodiedintelligence8675
-- Stanford Seminar: https://www.youtube.com/@stanfordonline
+- 如何做研究
+  - [GAMES003-图形视觉科研基本素养](https://pengsida.net/games003/)
+- 会议期刊
+  - 机器人：Science Robotics, RSS, CoRL, ICRA, IROS, RLC
+  - 机器学习：ICLR, NeurIPS, ICML
+  - 计算机视觉：CVPR, ICCV, ECCV
+  - 自然语言处理：ACL, EMNLP, COLM
+- 在线研讨班
+  - CMU Robotics Institute Seminar: https://www.youtube.com/@cmurobotics
+  - MIT Robotics Seminar: https://www.youtube.com/@MITRoboticsSeminar
+  - MIT Embodied Intelligence Seminar: https://www.youtube.com/@mitembodiedintelligence8675
+  - Stanford Seminar: https://www.youtube.com/@stanfordonline
 
 感谢上述相关work开源其代码！
