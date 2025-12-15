@@ -5,6 +5,12 @@
 有意报考/参与[OpenMOSS实验室](https://openmoss.github.io/)具身智能/人形机器人智能团队的同学，均需先完成下列入门练习。
 我们共享出来这个入门练习供广大具身智能/人形机器人智能爱好者作入门参考。
 
+
+> 作者：[李鹏](https://artpli.github.io)，[王思尹](https://sinwang20.github.io/)    
+> 指导老师：[邱锡鹏教授](https://xpqiu.github.io)     
+> 转载请注明出处。
+
+
 ## 入门基础
 - 会用ChatGPT/DeepSeek和Google
 - 会用Linux

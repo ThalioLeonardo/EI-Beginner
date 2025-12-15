@@ -4,6 +4,10 @@
 
 Students interested in applying to or joining the Embodied Intelligence/Humanoid Robot Intelligence team of the [OpenMOSS Lab](https://openmoss.github.io/) are required to first complete the following introductory practice. We share this introductory practice as a reference for all embodied intelligence/humanoid robot intelligence enthusiasts.
 
+> Authors: [Peng Li](https://artpli.github.io) and [Siyin Wang](https://sinwang20.github.io)     
+> Advised by [Prof. Xipeng Qiu](https://xpqiu.github.io)    
+> Reproduction is permitted only with proper attribution.    
+
 ## Prerequisites
 - Know how to use ChatGPT/DeepSeek and Google
 - Know how to use Linux
